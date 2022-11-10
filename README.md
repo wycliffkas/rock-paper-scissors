@@ -1,7 +1,7 @@
 # Rock Paper Scissors Game
 
 Classic "Rock Paper Scissors" game built with ReactJs.
-The Hosted version can be found [here](https://zen-kilby-eb917f.netlify.app/).
+The Hosted version can be found [here](https://gleaming-mooncake-71a272.netlify.app/).
 
 ## Features
 
